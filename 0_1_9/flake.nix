@@ -11,6 +11,7 @@
   inputs.src-biblioteca_guarrilla-0_1_9.ref   = "refs/tags/0.1.9";
   inputs.src-biblioteca_guarrilla-0_1_9.owner = "juancarlospaco";
   inputs.src-biblioteca_guarrilla-0_1_9.repo  = "biblioteca-guarrilla";
+  inputs.src-biblioteca_guarrilla-0_1_9.dir   = "";
   inputs.src-biblioteca_guarrilla-0_1_9.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";

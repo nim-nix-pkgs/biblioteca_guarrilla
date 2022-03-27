@@ -11,6 +11,7 @@
   inputs.src-biblioteca_guarrilla-master.ref   = "refs/heads/master";
   inputs.src-biblioteca_guarrilla-master.owner = "juancarlospaco";
   inputs.src-biblioteca_guarrilla-master.repo  = "biblioteca-guarrilla";
+  inputs.src-biblioteca_guarrilla-master.dir   = "";
   inputs.src-biblioteca_guarrilla-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
